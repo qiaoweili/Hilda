@@ -1,5 +1,5 @@
 # Hilda
-Hilda is a group project of interactive web story with Tian Qin.
+Hilda is a group project of interactive web story with Tian Qin.\
 It is adapted from Episode 1 & 2 of Netflix Animation Series Hilda.
 
 Demo video link:
